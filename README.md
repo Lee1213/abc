@@ -3,4 +3,4 @@
 
 # feature2  commit2 commit3
 
-# feature3  commit1 commit2
+# feature3  commit1 commit2 commit3
